@@ -1,10 +1,8 @@
 ---
-title: "HelloWorld.md"
+title: "HelloWorld"
 author: "siddharth"
 date: "07/09/2020"
-output:
-  pdf_document: default
-  html_document: default
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -31,4 +29,4 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
-##This is a markdown file
+## This is a markdown file
